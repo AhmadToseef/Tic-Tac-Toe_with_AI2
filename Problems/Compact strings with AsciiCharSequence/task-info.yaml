@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    class AsciiCharSequence /* extends/implements */ {
+        // implementation
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3082#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Unexpected java.lang.ClassCastException
+  time: Fri, 18 Jun 2021 18:00:41 UTC
+record: -1
